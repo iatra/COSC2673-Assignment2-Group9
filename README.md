@@ -1,5 +1,6 @@
 # COSC2673 Machine Learning Project - Assignment 2
 *Semester 1, 2025*
+
 This project outlines the specifications as part of the COSC2673 Machine Learning Course in RMIT University.
 
 ## Project Objective 
@@ -7,6 +8,7 @@ This project outlines the specifications as part of the COSC2673 Machine Learnin
 
 ## Development Environment
 Programming Language: Python
+
 IDE: Google Colab
 
 ## Data Sources
